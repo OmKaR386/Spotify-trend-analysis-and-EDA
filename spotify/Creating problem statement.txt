@@ -1,0 +1,5 @@
+
+**Problem Statement:**
+"Analyzing Streaming Trends to Optimize Content Curation and Listener Engagement on Spotify"
+
+The objective of this project is to perform an exploratory data analysis (EDA) on Spotify streaming data to uncover key trends in user behavior, genre popularity, and song preferences. By identifying patterns across different user demographics, geographies, and listening habits, the goal is to provide actionable insights that can help Spotify optimize content recommendations, enhance user engagement, and forecast future music trends. This analysis will enable Spotify to better align its platform with evolving listener preferences and improve user satisfaction.
